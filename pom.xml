@@ -9,13 +9,13 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>demo</name>
 	<description>demo</description>
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:javascript-programming/maven.git</developerConnection>
-		<tag>demo</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
